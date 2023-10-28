@@ -1,0 +1,11 @@
+.header {
+  border: 2px solid;
+  max-height: 500px;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header h1 {
+  color: red;
+}/*# sourceMappingURL=main.css.map */
